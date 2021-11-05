@@ -1,0 +1,12 @@
+2021/11/04-20:47:38.466 1ecc Reusing MANIFEST C:\Users\paulo\IdeaProjects\Mercado Livre Scraping\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/04-20:47:38.466 1ecc Recovering log #29
+2021/11/04-20:47:38.601 1ecc Reusing old log C:\Users\paulo\IdeaProjects\Mercado Livre Scraping\profile\wpp\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000029.log 
+2021/11/04-20:47:53.477 29f8 Level-0 table #34: started
+2021/11/04-20:47:53.750 29f8 Level-0 table #34: 1235877 bytes OK
+2021/11/04-20:47:53.867 29f8 Delete type=0 #29
+2021/11/04-20:47:54.475 1a9c Compacting 1@1 + 1@2 files
+2021/11/04-20:47:54.956 1a9c Generated table #35@1: 54316 keys, 2252311 bytes
+2021/11/04-20:47:54.956 1a9c Compacted 1@1 + 1@2 files => 2252311 bytes
+2021/11/04-20:47:55.003 1a9c compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/04-20:47:55.004 1a9c Delete type=2 #31
+2021/11/04-20:47:55.004 1a9c Delete type=2 #34
